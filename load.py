@@ -29,6 +29,7 @@ def get_download_dir():
     candidates = [
         '/storage/emulated/0/Movies',
         '/sdcard/Movies',
+        '/storage/emulated/0/Movies',
         '/storage/emulated/0/Download',
         '/sdcard/Download'
     ]
